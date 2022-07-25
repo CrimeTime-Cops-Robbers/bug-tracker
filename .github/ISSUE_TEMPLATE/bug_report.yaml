@@ -1,0 +1,13 @@
+name: Bug report
+description: Report a bug on the official "Crime Time Cops & Robbers" server
+labels: ['Class: bug']
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the bug
+      description: Describe the exact error that occurred on the game server.
+      placeholder: 
+    validations:
+      required: true
