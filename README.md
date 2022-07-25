@@ -1,6 +1,6 @@
 # CrimeTime Cops & Robbers
 
-we use github issues as a bug tracker for our game server, any bugs that may occur there can be reported here.
+We use github issues as a bug tracker for our game server, any bugs that may occur there can be reported here.
 
 ## How does it work?
 
